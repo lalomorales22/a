@@ -179,13 +179,14 @@ This is machine learning the way machines see it.
 
 ```bash
 # Clone it
-git clone <this-repo>
+git clone https://github.com/lalomorales22/a.git
+cd a
 
 # Stare at it
-cat obfuscated_gpt.py
+cat a.py
 
 # Question your life choices
-python3 obfuscated_gpt.py
+python a.py
 
 # Seek therapy
 ```
